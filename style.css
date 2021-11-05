@@ -1,0 +1,86 @@
+
+
+html, body
+{
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+}
+
+#myMap
+{
+    width: 100%;
+    height:100%;
+  
+  
+}
+#myMap
+{
+    width: 100%;
+    height:100%;
+  
+  
+}
+
+#myMap
+{
+    width: 100%;
+    height:100%;
+  
+  
+}
+
+#map-holder{
+    height: 100%;
+}
+
+
+.fill
+{
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.container{
+    max-width:60em;
+    
+}
+
+
+.fill
+{
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+#collapseExample{
+    height: 90vh;
+}
+
+#tapa{
+   
+    width: 40%;
+    background-color: green;
+}
+
+#fondoTapa{
+
+    background-image: url("./Imagenes/celesteyblanca.jpg");
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+    
+}
+
+
+
+
+
+
+
+
