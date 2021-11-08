@@ -19,6 +19,11 @@ var fisico = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 	attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
 });
 
+var politico = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}g', {
+	maxZoom: 17,
+	attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+});
+
 //Iconos
 
 
@@ -40,7 +45,7 @@ function popup(feature,layer){
 var destacados = L.geoJSON(myGeoJSON,{
     onEachFeature: popup,
     style: {
-        radius: 10,
+        radius: 7,
         fillColor: "#f3aa5d",
         color: "#000",
         weight: 1,
@@ -57,12 +62,12 @@ var destacados = L.geoJSON(myGeoJSON,{
 var condolenciasJS = L.geoJson(condolencias, {
     onEachFeature: popup,
     style: {
-        radius: 10,
+        radius: 7,
         fillColor: "#0606fc",
         color: "#2828b6",
         weight: 1,
         opacity: 1,
-        fillOpacity: 0.8},
+        fillOpacity: 0.3},
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng);
     }
@@ -75,7 +80,7 @@ var geojsonMarkerOptions = {
 var imagenes = L.geoJson(IMGGeoJSON,{
     onEachFeature: popup,
     style: {
-        radius: 8,
+        radius: 7,
         fillColor: "#2bc430",
         color: "#2828b6",
         weight: 1,
@@ -91,7 +96,8 @@ var imagenes = L.geoJson(IMGGeoJSON,{
 
 var baseMaps = {
     "Acuarela": acuarela,
-    "Fisíco": fisico
+    "Fisíco": fisico,
+    "Politico":politico
 };
 
 var overlayMaps = {
