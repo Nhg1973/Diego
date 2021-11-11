@@ -6,7 +6,7 @@ var myGeoJSON={
             "shape": "República Socialista de Vietnam",
             "bandera":"imagenes/vn.png",
             "name": "34 Archivos",
-            "category": "https://drive.google.com/file/d/1Sa4J41lUdmvgJgWqRYnI9got-mvBxuLl/view?usp=sharing"
+            "category": "Libro/Vietnam.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -19,7 +19,7 @@ var myGeoJSON={
             "shape": "República Bolivariana de Venezuela",
             "bandera":"imagenes/ve.png",
             "name": "5 archivos",
-            "category": "https://drive.google.com/file/d/1yN2mW5tKaZQJ6CBeRlyHQKL7BejhJTj5/view?usp=sharing"
+            "category": "Libro/Venezuela.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -32,7 +32,7 @@ var myGeoJSON={
             "shape": "República del Uruguay",
             "bandera":"imagenes/uy.png",
             "name": "35 Archivos",
-            "category": "https://drive.google.com/file/d/1NO2UkyR-baVcYNRyREU39hym9UOntwsF/view?usp=sharing"
+            "category": "Libro/Uruguay.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -45,7 +45,7 @@ var myGeoJSON={
             "shape": "Delegación Permanente Argentina ante UNESCO",
             "bandera":"imagenes/unesco.png",
             "name": "14 Archivos",
-            "category": "https://drive.google.com/file/d/1OT0M9XZNY9J8PA-LDRzaUMUtOj4AEpPG/view?usp=sharing"
+            "category": "Libro/Unesco.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -58,7 +58,7 @@ var myGeoJSON={
             "shape": "Ucrania",
             "bandera":"imagenes/ua.png",
             "name": "22 Archivos",
-            "category": "https://drive.google.com/file/d/122-yc-ZpQz2hfAk0ZsrOUef0blsEDRmX/view?usp=sharing"
+            "category": "Libro/Ucrania.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -71,7 +71,7 @@ var myGeoJSON={
             "shape": "República de Turquía",
             "name": "32 Archivos",
             "bandera":"imagenes/tr.png",
-            "category": "https://drive.google.com/file/d/1gcCey-Jno-VUzggZEr-vDR9T1lRuafqq/view?usp=sharing"
+            "category": "Libro/Turquia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -84,7 +84,7 @@ var myGeoJSON={
             "shape": "República Tunecina",
             "name": "3 Archivos",
             "bandera":"imagenes/tn.png",
-            "category": "https://drive.google.com/file/d/1E_uvNJWx-_fHy86PV-eOOe13bnrCoAwl/view?usp=sharing"
+            "category": "Libro/Tunez.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -97,7 +97,7 @@ var myGeoJSON={
             "shape": "Trinidad y Tobago",
             "bandera":"imagenes/tt.png",
             "name": "2 Archivos",
-            "category": "https://drive.google.com/file/d/1E_uvNJWx-_fHy86PV-eOOe13bnrCoAwl/view?usp=sharing"
+            "category": "Libro/Trinidad Tobago.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -110,7 +110,7 @@ var myGeoJSON={
             "shape": "Reino de Tailandia",
             "bandera":"imagenes/th.png",
             "name": "4 Archivos",
-            "category": "https://drive.google.com/file/d/14TuNOS2OyMnUbBJDOLRU3A_gUNx7MiHr/view?usp=sharing"
+            "category": "Libro/Tailandia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -123,7 +123,7 @@ var myGeoJSON={
             "shape": "Confederación Suiza",
             "bandera":"imagenes/ch.png",
             "name": "7 Archivos",
-            "category": "https://drive.google.com/file/d/1MO6VkXu2axTkqxKTJDxrbwFGzRqENYNS/view?usp=sharing"
+            "category": "Libro/Suiza.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -136,7 +136,7 @@ var myGeoJSON={
             "shape": "Reino de Suecia",
             "bandera":"imagenes/se.png",
             "name": "27 Archivos",
-            "category": "https://drive.google.com/file/d/1TyvinmoB68Vc_tQgorr6KHQ1fBccotrN/view?usp=sharing"
+            "category": "Libro/Suecia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -149,7 +149,7 @@ var myGeoJSON={
             "shape": "República de Sudafrica",
             "bandera":"imagenes/za.png",
             "name": "32 Archivos",
-            "category": "https://drive.google.com/file/d/1178tCAojl1aOb3stjExhc97LAkBqyIUF/view?usp=sharing"
+            "category": "Libro/Sudafrica.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -162,7 +162,7 @@ var myGeoJSON={
             "shape": "República Árabe Siria",
             "name": "6 Archivos",
             "bandera":"imagenes/sy.png",
-            "category": "https://drive.google.com/file/d/1TnZ_cnbXjyixTY9NiFeTJ27uDXqy7g9V/view?usp=sharing"
+            "category": "Libro/Siria.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -175,7 +175,7 @@ var myGeoJSON={
             "shape": "República de Serbia",
             "bandera":"imagenes/rs.png",
             "name": "8 Archivos",
-            "category": "https://drive.google.com/file/d/1nS8gTvcfTsDpBPdV1cka7Kkpl8Hy6xfu/view?usp=sharing"
+            "category": "Libro/Serbia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -188,7 +188,7 @@ var myGeoJSON={
             "shape": "Santa Sede",
             "bandera":"imagenes/va.png",
             "name": "42 Archivos",
-            "category": "https://drive.google.com/file/d/1oHSPhU71oaOXurYr-zPL5Af9W3QFj5ie/view?usp=sharing"
+            "category": "Libro/Santa Sede.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -199,8 +199,9 @@ var myGeoJSON={
         "type": "Feature",
         "properties": {
             "shape": "República de El Salvador",
+            "bandera":"imagenes/sv.png",
             "name": "17 Archivos",
-            "category": "https://drive.google.com/file/d/1QOScQPRrycJ9cfMR7358HXYJix83Vajy/view?usp=sharing"
+            "category": "Libro/Salvador.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -213,7 +214,7 @@ var myGeoJSON={
             "shape": "Federación Rusa",
             "bandera":"imagenes/ru.png",
             "name": "2 Archivos",
-            "category": "https://drive.google.com/file/d/1P9Ruwo2ZnBi9wQIIRBBkO90xSwx3Y63T/view?usp=sharing"
+            "category": "Libro/Rusia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -226,7 +227,7 @@ var myGeoJSON={
             "shape": "Rumania",
             "bandera":"imagenes/ro.png",
             "name": "13 Archivos",
-            "category": "https://drive.google.com/file/d/1c5-R-XdVzp1PwRmDKecHYeU5VoKE6_jx/view?usp=sharing"
+            "category": "Libro/Rumania.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -238,7 +239,7 @@ var myGeoJSON={
         "properties": {
             "shape": "República Dominicana",
             "name": "12 Archivos",
-            "category": "https://drive.google.com/file/d/1IvHgZFF5MSVxQ-2JBMD2rvb3PHIgwU-h/view?usp=sharing"
+            "category": "Libro/Dominicana.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -251,7 +252,7 @@ var myGeoJSON={
             "shape": "República Checa",
             "bandera":"imagenes/cz.png",
             "name": "40 Archivos",
-            "category": "https://drive.google.com/file/d/1UD7RQouNRUswxUbA-1whOhOuo2g-ePTY/view?usp=sharing"
+            "category": "Libro/Checa.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -264,7 +265,7 @@ var myGeoJSON={
             "shape": "Reino Unido de Gran Bretaña",
             "bandera":"imagenes/gb.png",
             "name": "10 Archivos",
-            "category": "https://drive.google.com/file/d/1qs4JHtrKv1nH0_dPS2UZDsOuyPKqJWbN/view?usp=sharing"
+            "category": "Libro/Bretaña.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -277,7 +278,7 @@ var myGeoJSON={
             "shape": "Estado de Qatar",
             "bandera":"imagenes/qa.png",
             "name": "18 Archivos",
-            "category": "https://drive.google.com/file/d/1Cj3IFDGG7QhA9zXJXpRGnPtnF69I9rDm/view?usp=sharing"
+            "category": "Libro/Qatar.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -290,7 +291,7 @@ var myGeoJSON={
             "shape": "República de Portugal",
             "name": "30 Archivos",
             "bandera":"imagenes/pt.png",
-            "category": "https://drive.google.com/file/d/1JYgmhcXKWSmLAop1JgfW6gm4ggiEiyce/view?usp=sharing"
+            "category":"Libro/Portugal.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -303,7 +304,7 @@ var myGeoJSON={
             "shape": "República de Polonia",
             "bandera":"imagenes/pl.png",
             "name": "25 Archivos",
-            "category": "https://drive.google.com/file/d/1Rs9IIt9ut6gZdN0nFHRsAPZTzT75mnem/view?usp=sharing"
+            "category": "Libro/Polonia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -316,7 +317,7 @@ var myGeoJSON={
             "shape": "República de Perú",
             "bandera":"imagenes/pe.png",
             "name": "29 Archivos",
-            "category": "https://drive.google.com/file/d/1XjLf3hBU1y0uvaaTu0L0CfmfqyAlMJ3c/view?usp=sharing"
+            "category": "Libro/Peru.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -329,7 +330,7 @@ var myGeoJSON={
             "shape": "República del Paraguay",
             "bandera":"imagenes/py.png",
             "name": "7 Archivos",
-            "category": "https://drive.google.com/file/d/1kHG0zBrB2z76r0fZSjhb2-mKKHIWDiSp/view?usp=sharing"
+            "category": "Libro/Paraguay.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -342,7 +343,7 @@ var myGeoJSON={
             "shape": "República de Panama",
             "bandera":"imagenes/pa.png",
             "name": "26 Archivos",
-            "category": "https://drive.google.com/file/d/1WcB1JDJwmZ1R0f_ncAsdz3TXmw-LnmO5/view?usp=sharing"
+            "category": "Libro/Panama.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -355,7 +356,7 @@ var myGeoJSON={
             "shape": "Estado de Palestina",
             "bandera":"imagenes/ps.png",
             "name": "5 Archivos",
-            "category": "https://drive.google.com/file/d/1E8VeTlsWUN7euk9o4mkELCliPIsD4Y9Q/view?usp=sharing"
+            "category": "Libro/Palestina.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -368,7 +369,7 @@ var myGeoJSON={
             "shape": "República Islamica de Pakistán",
             "bandera":"imagenes/pk.png",
             "name": "22 Archivos",
-            "category": "https://drive.google.com/file/d/1DsXASNvJqoNWGFtfuR5htk285wS2R7JS/view?usp=sharing"
+            "category": "Libro/Paquistan.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -381,7 +382,7 @@ var myGeoJSON={
             "shape": "Reino de los Países Bajos",
             "bandera":"imagenes/nl.png",
             "name": "28 Archivos",
-            "category": "https://drive.google.com/file/d/1hdsGJodHeZIzYSNors1Y6GUhrygj7tDD/view?usp=sharing"
+            "category": "Libro/Bajos.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -393,7 +394,7 @@ var myGeoJSON={
         "properties": {
             "shape": "Misión Permanente Argentina ante las ONU en Ginebra",
             "name": "56 Archivos",
-            "category": "https://drive.google.com/file/d/1TEacsIgkEItQFNK35L64k5uVU0r8UMOs/view?usp=sharing"
+            "category": "Libro/Ginebra.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -406,7 +407,7 @@ var myGeoJSON={
             "shape": "Misión Permanente Argentina ante OEA",
             "bandera":"imagenes/oea.png",
             "name": "10 Archivos",
-            "category": "https://drive.google.com/file/d/1ZsIwtwkYKziOxot7_UF1d4-3pNR5_gKh/view?usp=sharing"
+            "category": "Libro/OEA.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -419,7 +420,7 @@ var myGeoJSON={
             "shape": "Reino de Nueva Zelanda",
             "bandera":"imagenes/nz.png",
             "name": "33 Archivos",
-            "category": "https://drive.google.com/file/d/1O4Q0r7gzICrL3GwAYgfRU-fZh61uMTYZ/view?usp=sharing"
+            "category": "Libro/Zelanda.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -432,7 +433,7 @@ var myGeoJSON={
             "shape": "Reino de Noruega",
             "bandera":"imagenes/no.png",
             "name": "21 ARchivos",
-            "category": "https://drive.google.com/file/d/1_Q0YXGpjy7HntvYbaq2OcQHpCN5fB0cC/view?usp=sharing"
+            "category": "Libro/Noruega.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -445,7 +446,7 @@ var myGeoJSON={
             "shape": "República Federal de Nigeria",
             "bandera":"imagenes/ng.png",
             "name": "5 Archivos",
-            "category": "https://drive.google.com/file/d/1luas5cOGSm-axN-AEV66tTTOsQDcDgxA/view?usp=sharing"
+            "category": "Libro/Nigeria.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -458,7 +459,7 @@ var myGeoJSON={
             "shape": "República de Nicaragua",
             "bandera":"imagenes/ni.png",
             "name": "7 Archivos",
-            "category": "https://drive.google.com/file/d/1luas5cOGSm-axN-AEV66tTTOsQDcDgxA/view?usp=sharing"
+            "category": "Libro/Nicaragua.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -471,7 +472,7 @@ var myGeoJSON={
             "shape": "Representación Permanente ante las Naciones Unidas",
             "bandera":"imagenes/onu.png",
             "name": "50 Archivos",
-            "category": "https://drive.google.com/file/d/1fhRyfDRVMjNKmDarAWsR_cSpl4qCZrzF/view?usp=sharing"
+            "category": "Libro/Unidas.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -484,7 +485,7 @@ var myGeoJSON={
             "shape": "República de Mozambique",
             "bandera":"imagenes/mz.png",
             "name": "3 Archivos",
-            "category": "https://drive.google.com/file/d/15q0jE9TJdRV5Aqry5L5H4D5phbxT1TpC/view?usp=sharing"
+            "category": "Libro/Mozambique.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -497,7 +498,7 @@ var myGeoJSON={
             "shape": "Reino de Marruecos",
             "bandera":"imagenes/ma.png",
             "name": "30 Archivos",
-            "category": "https://drive.google.com/file/d/1RBMClHdSm_ULQ92_64Vq1Zbv_BKmpA2r/view?usp=sharing"
+            "category": "Libro/Marruecos.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -510,7 +511,7 @@ var myGeoJSON={
             "shape": "República Libanesa",
             "bandera":"imagenes/ly.png",
             "name": "10 Archivos",
-            "category": "https://drive.google.com/file/d/1UquLISYPW4cyU-7-7I3mmqKTMg6FbKCn/view?usp=sharing"
+            "category": "Libro/Libano.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -523,7 +524,7 @@ var myGeoJSON={
             "shape": "República de Kenia",
             "bandera":"imagenes/ke.png",
             "name": "3 Archivos",
-            "category": "https://drive.google.com/file/d/1bTFpGyg8MTwzXIJq386JYTJIH271SBrB/view?usp=sharing"
+            "category": "Libro/Kenia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -536,7 +537,7 @@ var myGeoJSON={
             "shape": "Estado de Japón",
             "bandera":"imagenes/jp.png",
             "name": "56 Archivos",
-            "category": "https://drive.google.com/file/d/16V91PDdiTOlD1E8hebKEQM6qT9a553m1/view?usp=sharing"
+            "category": "Libro/Japon.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -549,7 +550,7 @@ var myGeoJSON={
             "shape": "Jamaica",
             "bandera":"imagenes/jm.png",
             "name": "5 Archivos",
-            "category": "https://drive.google.com/file/d/1oNkXdR3Y0GJXb_6dgXSuc1gTnun9lIAE/view?usp=sharing"
+            "category": "Libro/Jamaica.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -562,7 +563,7 @@ var myGeoJSON={
             "shape": "República Italiana",
             "bandera":"imagenes/it.png",
             "name": "48 Archivos",
-            "category": "https://drive.google.com/file/d/1pXdzcNG_m-PFDEWu25oKtwW-UpYffXFy/view?usp=sharing"
+            "category": "Libro/Italia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -575,7 +576,7 @@ var myGeoJSON={
             "shape": "República de Irlanda",
             "bandera":"imagenes/ie.png",
             "name": "36 Archivos",
-            "category": "https://drive.google.com/file/d/1eawz68iOQHgLCVYGn_vLFGcaRYED1R8F/view?usp=sharing"
+            "category": "Libro/Irlanda.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -588,7 +589,7 @@ var myGeoJSON={
             "shape": "República Islamica de Irán",
             "bandera":"imagenes/ir.png",
             "name": "56 Archivos",
-            "category": "https://drive.google.com/file/d/1eawz68iOQHgLCVYGn_vLFGcaRYED1R8F/view?usp=sharing"
+            "category": "Libro/Iran.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -601,7 +602,7 @@ var myGeoJSON={
             "shape": "República de Indonesia",
             "bandera":"imagenes/id.png",
             "name": "28 Archivos",
-            "category": "https://drive.google.com/file/d/1pThDph7naPm_okylkOs24Mvsj4v5Z72q/view?usp=sharing"
+            "category": "Libro/Indonesia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -614,7 +615,7 @@ var myGeoJSON={
             "shape": "República de India",
             "bandera":"imagenes/in.png",
             "name": "48 Archivos",
-            "category": "https://drive.google.com/file/d/1vqMQDEZ434JXQE70EieZSPyEWGEqUy-J/view?usp=sharing"
+            "category": "Libro/India.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -627,7 +628,7 @@ var myGeoJSON={
             "shape": "República de Honduras",
             "bandera":"imagenes/hn.png",
             "name": "32 Archivos",
-            "category": "https://drive.google.com/file/d/1SnEpxkENGe2glhXKRGzyCG5KLD3-xWYx/view?usp=sharing"
+            "category": "Libro/Honduras.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -640,7 +641,7 @@ var myGeoJSON={
             "shape": "República de Haití",
             "bandera":"imagenes/ht.png",
             "name": "7 Archivos",
-            "category": "https://drive.google.com/file/d/1Tn77Nz64tM-lwOmYxasObxjaEFzMt2kO/view?usp=sharing"
+            "category": "Libro/Haiti.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -653,7 +654,7 @@ var myGeoJSON={
             "shape": "Guyana",
             "bandera":"imagenes/gy.png",
             "name": "9 Archivos",
-            "category": "https://drive.google.com/file/d/1VhgUM4ZDvOLSrybpBWMTIcRhSfnPz-LW/view?usp=sharing"
+            "category": "Libro/Guyana.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -666,7 +667,7 @@ var myGeoJSON={
             "shape": "República de Guatemala",
             "bandera":"imagenes/gt.png",
             "name": "12 Archivos",
-            "category": "https://drive.google.com/file/d/1q6xNuyj4dLKU97ZKRAwUachLPsvN8vwI/view?usp=sharing"
+            "category": "Libro/Guatemala.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -679,7 +680,7 @@ var myGeoJSON={
             "shape": "República Hélenica",
             "bandera":"imagenes/gr.png",
             "name": "45 Archivos",
-            "category": "https://drive.google.com/file/d/1XEpfeefHYZE18n2C3EKah6J9QMY9ED1o/view?usp=sharing"
+            "category": "Libro/Grecia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -692,7 +693,7 @@ var myGeoJSON={
             "shape": "República de Francia",
             "bandera":"imagenes/fr.png",
             "name": "48 Archivos",
-            "category": "https://drive.google.com/file/d/1XEpfeefHYZE18n2C3EKah6J9QMY9ED1o/view?usp=sharing"
+            "category": "Libro/Francia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -702,10 +703,10 @@ var myGeoJSON={
     }, {
         "type": "Feature",
         "properties": {
-            "shape": "Delegación Permanente ante la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura",
+            "shape": "Organización de las Naciones Unidas para la Alimentación y la Agricultura",
             "bandera":"imagenes/unesco.png",
             "name": "17 Archivos",
-            "category": "https://drive.google.com/file/d/1rsaKirIQITJmCLqCXlxdZHaMVEPeS-CE/view?usp=sharing"
+            "category": "Libro/FAO.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -718,7 +719,7 @@ var myGeoJSON={
             "shape": "República de Filipinas",
             "bandera":"imagenes/ph.png",
             "name": "97 Archivos",
-            "category": "https://drive.google.com/file/d/1kX0_k_96-kRwk4jaGJtbsVpoW5QRvRNj/view?usp=sharing"
+            "category": "Libro/Filipinas.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -731,7 +732,7 @@ var myGeoJSON={
             "shape": "Etiopía",
             "bandera":"imagenes/et.png",
             "name": "17 Archivos",
-            "category": "https://drive.google.com/file/d/1kX0_k_96-kRwk4jaGJtbsVpoW5QRvRNj/view?usp=sharing"
+            "category": "Libro/Etiopia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -744,7 +745,7 @@ var myGeoJSON={
             "shape": "Estados Unidos de América",
             "bandera":"imagenes/us.png",
             "name": "32 Archivos",
-            "category": "https://drive.google.com/file/d/1ysnLFAicruDhAx0vXge8KbJMyzTb7Zpr/view?usp=sharing"
+            "category": "Libro/EEUU.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -757,7 +758,7 @@ var myGeoJSON={
             "shape": "Reino de España",
             "bandera":"imagenes/es.png",
             "name": "33 Archivos",
-            "category": "https://drive.google.com/file/d/1FLCQ8DDgWVBojlqI1ETmbmmSVbjHx3hB/view?usp=sharing"
+            "category": "Libro/España.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -770,7 +771,7 @@ var myGeoJSON={
             "shape": "Emiratos Árabes Unidos",
             "bandera":"imagenes/ae.png",
             "name": "24 Archivos",
-            "category": "https://drive.google.com/file/d/1oJcqPRunhzPzeBOp_0DsRPpZ2Ie-Qgy4/view?usp=sharing"
+            "category": "Libro/Arabia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -783,7 +784,7 @@ var myGeoJSON={
             "shape": "República Árabe de Egipto",
             "bandera":"imagenes/eg.png",
             "name": "17 Archivos",
-            "category": "https://drive.google.com/file/d/11UGtnVPiNfbXDdEmKRLQlyWbHrbfA7Xd/view?usp=sharing"
+            "category": "Libro/Egipto.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -796,7 +797,7 @@ var myGeoJSON={
             "shape": "República de Ecuador",
             "bandera":"imagenes/ec.png",
             "name": "8 Archivos",
-            "category": "https://drive.google.com/file/d/1VaD8BH0gCOfnCTiZk-Apcl8yw_373FFd/view?usp=sharing"
+            "category": "Libro/Ecuador.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -809,7 +810,7 @@ var myGeoJSON={
             "shape": "República de Cuba",
             "bandera":"imagenes/cu.png",
             "name": "34 Archivos",
-            "category": "https://drive.google.com/file/d/1xKfTGf77k0dzLB4uEC2nMIqHJghlZsUj/view?usp=sharing"
+            "category": "Libro/Cuba.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -822,7 +823,7 @@ var myGeoJSON={
             "shape": "República de Costa Rica",
             "bandera":"imagenes/cr.png",
             "name": "14 Archivos",
-            "category": "https://drive.google.com/file/d/16uPaScpY2BDqvxmcryOq-HmAYbb7eCse/view?usp=sharing"
+            "category": "Libro/Rica.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -835,7 +836,7 @@ var myGeoJSON={
             "shape": "República de Corea",
             "bandera":"imagenes/kr.png",
             "name": "19 Archivos",
-            "category": "https://drive.google.com/file/d/1xu03PeG6uQNpLRgvskZd3em4-oPY49ek/view?usp=sharing"
+            "category": "Libro/Corea.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -848,7 +849,7 @@ var myGeoJSON={
             "shape": "República de Colombia",
             "bandera":"imagenes/co.png",
             "name": "21 Archivos",
-            "category": "https://drive.google.com/file/d/17QX2LZ8NQAMCRygKJsFiNZ7ZRmvPqjtf/view?usp=sharing"
+            "category": "Libro/Colombia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -861,7 +862,7 @@ var myGeoJSON={
             "shape": "República Popular China",
             "bandera":"imagenes/cn.png",
             "name": "62 Archivos",
-            "category": "https://drive.google.com/file/d/17QX2LZ8NQAMCRygKJsFiNZ7ZRmvPqjtf/view?usp=sharing"
+            "category": "Libro/China.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -874,7 +875,7 @@ var myGeoJSON={
             "shape": "República de Canadá",
             "bandera":"imagenes/ca.png",
             "name": "54 Archivos",
-            "category": "https://drive.google.com/file/d/1j7cBKU6QU2LdHTyFN9cWfjT9OgS_e3E2/view?usp=sharing"
+            "category": "Libro/Canada.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -887,7 +888,7 @@ var myGeoJSON={
             "shape": "República Federativa de Brasil",
             "bandera":"imagenes/br.png",
             "name": "93 Archivos",
-            "category": "https://drive.google.com/file/d/1L2FtuQiXyJIQdYIjEZvwT7maM76-iRZx/view?usp=sharing"
+            "category": "Libro/Brasil.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -900,7 +901,7 @@ var myGeoJSON={
             "shape": "República Plurinacional de Bolivia",
             "bandera":"imagenes/bo.png",
             "name": "2 Archivos",
-            "category": "https://drive.google.com/file/d/15uR9gixHdoip81ETCbcX8IUfMwl5hfwZ/view?usp=sharing"
+            "category": "Libro/Bolivia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -913,7 +914,7 @@ var myGeoJSON={
             "shape": "Reino de Belgica",
             "bandera":"imagenes/be.png",
             "name": "44 Archivos",
-            "category": "https://drive.google.com/file/d/1V5ScG96fa6Hot8jlDg8vEHIHs0TJroBI/view?usp=sharing"
+            "category": "Libro/Belgica.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -926,7 +927,7 @@ var myGeoJSON={
             "shape": "Barbados",
             "bandera":"imagenes/bb.png",
             "name": "2 Archivos",
-            "category": "https://drive.google.com/file/d/1ej4EPWHZlBO2rMXRhiJrTOmtDVd6zkOp/view?usp=sharing"
+            "category": "Libro/Barbados.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -939,7 +940,7 @@ var myGeoJSON={
             "shape": "República de Azerbaiyán",
             "bandera":"imagenes/az.png",
             "name": "23 Archivos",
-            "category": "https://drive.google.com/file/d/1ej4EPWHZlBO2rMXRhiJrTOmtDVd6zkOp/view?usp=sharing"
+            "category": "Libro/Azerbaiyan.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -952,7 +953,7 @@ var myGeoJSON={
             "shape": "República de Austria",
             "bandera":"imagenes/at.png",
             "name": "35 Archivos",
-            "category": "https://drive.google.com/file/d/1R5vGqV2Dxn7fFbz2FV_G32umW8Qsspwv/view?usp=sharing"
+            "category": "Libro/Austria.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -965,7 +966,7 @@ var myGeoJSON={
             "shape": "Commonwealth de Australia",
             "bandera":"imagenes/au.png",
             "name": "12 Archivos",
-            "category": "https://drive.google.com/file/d/1iyugrdnLyNrERzf248eHAs1u4O5Blix0/view?usp=sharing"
+            "category": "Libro/Australia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -978,7 +979,7 @@ var myGeoJSON={
             "shape": "República de Armenia",
             "bandera":"imagenes/am.png",
             "name": "3 Archivos",
-            "category": "https://drive.google.com/file/d/19iC1k-KOUrAufFnTXsS6tDhxuTLur6J1/view?usp=sharing"
+            "category": "Libro/Armenia.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -991,7 +992,7 @@ var myGeoJSON={
             "shape": "República Argelina Democrática y Popular",
             "bandera":"imagenes/dz.png",
             "name": "45 Archivos",
-            "category": "https://drive.google.com/file/d/1yiruQc9J_-1aCVGCZMDJZu78nFJsDRKt/view?usp=sharing"
+            "category": "Libro/Popular.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -1004,7 +1005,7 @@ var myGeoJSON={
             "shape": "Reino de Arabia Saudita",
             "bandera":"imagenes/sa.png",
             "name": "8 Archivos",
-            "category": "https://drive.google.com/file/d/1M6-fv2fpFbgqeAZnp-Z0MnGtHc1FE40Q/view?usp=sharing"
+            "category": "Libro/Saudita.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -1017,7 +1018,7 @@ var myGeoJSON={
             "shape": "República de Angola",
             "bandera":"imagenes/ao.png",
             "name": "13 Archivos",
-            "category": "https://drive.google.com/file/d/1nWz-krKn94DUo_5qdlX28UFin4s562CS/view?usp=sharing"
+            "category": "Libro/Angola.pdf"
         },
         "geometry": {
             "type": "Point",
@@ -1030,7 +1031,7 @@ var myGeoJSON={
             "shape": "República Federal de Alemania",
             "bandera":"imagenes/de.png",
             "name": "59 Archivos",
-            "category": "https://drive.google.com/file/d/1il2oPsCtzqoOMiG19bb-AGZ69Hho7Cks/view?usp=sharing"
+            "category": "Libro/Alemania.pdf"
         },
         "geometry": {
             "type": "Point",

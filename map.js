@@ -1,5 +1,5 @@
 const tilesProvider ='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-let myMap = L.map('myMap').setView([10, 10.45], 2);
+let myMap = L.map('myMap').setView([10, 10.45],1);
 
 // Agrega mapa base
 
@@ -24,18 +24,15 @@ var politico = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services
 	attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
 });
 
-//Iconos
-
-
 //Popup
 
 function popup(feature,layer){
-    layer.bindPopup(`<div class="card bg-primary" style="width: 12rem; --bs-bg-opacity: .1;">
+    layer.bindPopup(`<div class="card bg-primary" style="width: 12rem; --bs-bg-opacity: .3;">
     
     <div class="card-body">
         
-        <h6 class="card-title text-center"><img src="${feature.properties.bandera}" class="card-img-top mx-auto w-25" alt="bandera">${feature.properties.shape}</h6>
-        <a href="${feature.properties.category}" class="card-link">${feature.properties.name}</a>
+        <h6 class="card-title text-center"><img src="${feature.properties.bandera}" class="card-img-top mx-auto w-25" alt="bandera"><br> ${feature.properties.shape}</h6>
+        <a href="${feature.properties.category}" class="card-link"><h6 class="text-center">${feature.properties.name}</h6></a>
         
     </div>
 </div>` )
@@ -46,7 +43,7 @@ var destacados = L.geoJSON(myGeoJSON,{
     onEachFeature: popup,
     style: {
         radius: 7,
-        fillColor: "#f3aa5d",
+        fillColor: "blue",
         color: "#000",
         weight: 1,
         opacity: 1,
@@ -71,7 +68,7 @@ var condolenciasJS = L.geoJson(condolencias, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng);
     }
-});
+}).addTo(myMap);
 
 var geojsonMarkerOptions = {
     
@@ -92,12 +89,15 @@ var imagenes = L.geoJson(IMGGeoJSON,{
 });
 
 
+
 //Control de capas 
 
 var baseMaps = {
-    "Acuarela": acuarela,
-    "Fisíco": fisico,
-    "Politico":politico
+    "<span style='color:#00aae4'><b>Acuarela<b></span>": acuarela,
+    "<span style='color:#00aae4'><b>Físico<b></span>": fisico,
+    "<span style='color:#00aae4'><b>Político<b></span>": politico,
+    
+    
 };
 
 var overlayMaps = {
@@ -110,7 +110,7 @@ var overlayMaps = {
 
 L.control.layers(baseMaps,overlayMaps).addTo(myMap);
 
-//Agrupamiento
+
 
 
 
